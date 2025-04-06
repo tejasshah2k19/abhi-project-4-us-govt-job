@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project4App</string>
+    <string name="title">US GOV Job Finder</string>
+    <string name="jobtitle_software">Jobtitle ( Software )</string>
+    <string name="location_washington_d_c">Location ( Washington, D.C )</string>
+    <string name="pay_range_10000_150000">Pay Range (10000-150000)</string>
+    <string name="search">Search</string>
+</resources>
